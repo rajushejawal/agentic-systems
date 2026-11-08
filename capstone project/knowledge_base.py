@@ -1,0 +1,14 @@
+KB_DOCUMENTS = {
+    "loan_eligibility": "Loan eligibility criteria require applicants to be aged 21-60 with a minimum credit score of 750. Salaried individuals must show 2 years of continuous work experience, while self-employed businesses need 3 years of audited financials.",
+    "emi_calculation": "EMI calculation follows the standard reducing balance method: Equated Monthly Installment is computed as [P x R x (1+R)^N]/[((1+R)^N)-1]. Here, P is the principal loan amount, R is the monthly interest rate, and N is the tenure in months.",
+    "credit_card_fees": "Credit card fee structures include a flat annual percentage rate (APR) of 42% on outstanding balances. Late payment fees are tiered up to 1300 INR based on the total statement balance due.",
+    "kyc_requirements": "KYC document requirements mandate submitting a valid PAN card as primary identification. Address proof can be satisfied using an Aadhaar card, recent utility bills, or a valid passport copy.",
+    "fraud_disputes": "Fraud dispute resolution process requires members to report unauthorized activities within 3 working days. Cred investigations take up to 90 business days, during which temporary credit may be issued to the account.",
+    "account_closure": "Account closure process requires full settlement of all unbilled balances and interest liabilities. Users must submit a formal closure request through the mobile application, after which a confirmation certificate is generated.",
+    "interest_slabs": "Interest rate slabs are determined by the customer's risk profile and chosen loan segment. Personal loans range from 11.5% to 24% annually, whereas secured home loans start at a competitive 8.75% baseline.",
+    "prepayment_penalties": "Prepayment penalty rules specify zero charges for floating-rate individual retail loans. However, fixed-rate loans and commercial business accounts incur a flat penalty fee of 2% on the prepaid principal amount.",
+    "minimum_balance": "Minimum balance requirements state that premium savings accounts must maintain a monthly average balance of 10000 INR. Failure to maintain this baseline triggers a non-maintenance charge of 250 INR per month.",
+    "credit_score_factors": "Credit score impact factors prioritize timely repayment history which comprises 35% of the total score weight. Credit utilization ratio, hard credit inquiries, and overall credit history length determine the remaining scoring balance.",
+    "joint_accounts": "Joint account rules require both primary and secondary applicants to possess distinct KYC records. All credit liabilities are treated with joint and several responsibility, meaning either party can be held liable for arrears.",
+    "nri_eligibility": "NRI account eligibility allows non-resident individuals to establish NRE or NRO accounts with verified foreign credentials. Income sourced directly within India must be handled through NRO structures to comply with FEMA guidelines."
+}
